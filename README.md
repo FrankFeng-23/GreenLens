@@ -27,10 +27,8 @@
     <img src="logo_banner.png" alt="Logo" height="180">
   </a>
 
-  <h3 align="center">GreenLens</h3>
-
   <p align="center">
-    An intuitive app for accelerating forest inventory mapping :evergreen_tree:
+    <h3>An Intuitive App for Accelerating Forest Inventory Mapping :evergreen_tree: </h3>
     <br />
     <a href="https://apkpure.net/p/com.cleeg.greenlens"><strong>Download the APK » </strong> 📱 </a>
     <br />
