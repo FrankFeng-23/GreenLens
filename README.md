@@ -87,7 +87,7 @@ An ideal approach to forest inventory should be available worldwide for mass ado
 ### Built With
 
 * [![Flutter][flutter-icon]][flutter-url]
-* [![ARCore][arcore-icon]][arcore-url]
+* [![arcore](arcorelogo.svg)][arcore-url]
 * [![Pytorch][pytorch-icon]][pytorch-url]
 * [![OpenCV][opencv-icon]][opencv-url]
 * [![Firebase][firebase-icon]][firebase-url]
@@ -219,10 +219,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
-
 [flutter-icon]: https://img.shields.io/badge/flutter-%23FFFFFF?style=for-the-badge&logo=flutter&logoColor=%2302569B
 [flutter-url]: https://flutter.dev/
-[arcore-icon]: https://github.com/FrankFeng-23/GreenLens/arcorelogo.svg
 [arcore-url]: https://developers.google.com/ar
 [pytorch-icon]: https://img.shields.io/badge/pytorch-%23FFFFFF?style=for-the-badge&logo=pytorch&logoColor=%23EE4C2C
 [pytorch-url]: https://pytorch.org/
