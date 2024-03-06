@@ -71,7 +71,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Project ℹ
 <!--
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 -->
@@ -83,7 +83,7 @@ An ideal approach to forest inventory should be available worldwide for mass ado
 
 
 
-### Built With
+### Built With 🔨
 
 * [![Flutter][flutter-icon]][flutter-url]
 * [![arcore](arcorelogo.svg)][arcore-url]
@@ -93,7 +93,7 @@ An ideal approach to forest inventory should be available worldwide for mass ado
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Current Functionality
+### Current Functionality ⚙
 * User Registration/Login
 * Create/Edit/Manage the Plots
 * Create/Edit/Manage Trees in Each Plot
@@ -102,16 +102,16 @@ An ideal approach to forest inventory should be available worldwide for mass ado
 * Export Data (Tree ID, DBH, Species, Lat, Lon, RGB, Depth, Boundary...)
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Getting Started 🔰
 
 If you would like to try our app, please download our [APK](https://apkpure.net/p/com.cleeg.greenlens) from APKPure and install it on your Android phone. Before using the app, we strongly recommend checking [Support Device](https://developers.google.com/ar/devices) to ensure device compatibility.
 
 If you are a developer or an ecological researcher interested in understanding how the app operates in depth, you can refer to the following guidelines to run the app. However, before doing so, we still recommend that you review [our paper](https://www.cambridge.org/engage/coe/article-details/657491c25bc9fcb5c9727f79) to understand the app's architecture, image processing pipeline, and diameter estimation methodology.
-### Prerequisites
+### Prerequisites 🔑
 
 TODO
 
-### Installation
+### Installation ⚒
 
 TODO
 1. Clone the repo
@@ -132,7 +132,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 -->
 
 <!-- ROADMAP -->
-## Roadmap
+## Roadmap ✈
 
 - [x] Add map service
 - [x] Add boundary adjustment
@@ -148,7 +148,7 @@ See the [open issues](https://github.com/FrankFeng-23/GreenLens/issues) for a fu
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Contributing 💪
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -166,7 +166,7 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- LICENSE -->
-## License
+## License 📖
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
@@ -175,7 +175,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 <!-- CONTACT -->
-## Contact
+## Contact 📞
 
 GreenLens - greenlens@example.com
 
@@ -185,7 +185,7 @@ Our Group Link: [Energy and Environment Group](https://www.cst.cam.ac.uk/researc
 
 
 <!-- CITATION -->
-## Citation
+## Citation 📚
 ```
 @article{feng2023trunk,
   title={A Trunk Diameter Estimation Mobile App for the Masses},
