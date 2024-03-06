@@ -222,8 +222,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 [flutter-icon]: https://img.shields.io/badge/flutter-%23FFFFFF?style=for-the-badge&logo=flutter&logoColor=%2302569B
 [flutter-url]: https://flutter.dev/
-[arcore-icon]: https://github.com/FrankFeng-23/GreenLens/arcorelogo.png
-
+[arcore-icon]: https://github.com/FrankFeng-23/GreenLens/arcorelogo.svg
 [arcore-url]: https://developers.google.com/ar
 [pytorch-icon]: https://img.shields.io/badge/pytorch-%23FFFFFF?style=for-the-badge&logo=pytorch&logoColor=%23EE4C2C
 [pytorch-url]: https://pytorch.org/
