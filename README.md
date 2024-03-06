@@ -89,8 +89,6 @@ An ideal approach to forest inventory should be available worldwide for mass ado
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 * [![Flutter][flutter-icon]][flutter-url]
 * [![ARCore][arcore-icon]][arcore-url]
 * [![Pytorch][pytorch-icon]][pytorch-url]
@@ -99,7 +97,13 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+### Current Functionality
+* User Registration/Login
+* Create/Edit/Manage the Plots
+* Create/Edit/Manage Trees in Each Plot
+* Species Identification
+* Record Collection Locations
+* Export Data (Tree ID, DBH, Species, Lat, Lon, RGB, Depth, Boundary...)
 
 <!-- GETTING STARTED -->
 ## Getting Started
