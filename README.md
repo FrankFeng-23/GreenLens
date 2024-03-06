@@ -24,7 +24,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/FrankFeng-23/GreenLens">
-    <img src="icon.webp" alt="Logo" width="180" height="180">
+    <img src="logo_banner.png" alt="Logo" height="180">
   </a>
 
   <h3 align="center">GreenLens</h3>
