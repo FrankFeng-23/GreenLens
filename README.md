@@ -30,16 +30,16 @@
   <h3 align="center">GreenLens</h3>
 
   <p align="center">
-    An intuitive app for accelerating forest inventory mapping 
+    An intuitive app for accelerating forest inventory mapping :evergreen_tree:
     <br />
-    <a href="https://apkpure.net/p/com.cleeg.greenlens"><strong>Download the APK »</strong></a>
+    <a href="https://apkpure.net/p/com.cleeg.greenlens"><strong>Download the APK » </strong> 📱 </a>
     <br />
     <br />
-    <a href="https://www.cambridge.org/engage/coe/article-details/657491c25bc9fcb5c9727f79">View Our Paper</a>
+    <a href="https://www.cambridge.org/engage/coe/article-details/657491c25bc9fcb5c9727f79">View Our Paper :bookmark_tabs:</a>
     ·
-    <a href="https://github.com/FrankFeng-23/GreenLens/issues">Report Bug</a>
+    <a href="https://github.com/FrankFeng-23/GreenLens/issues">Report Bug :hammer_and_wrench:</a>
     ·
-    <a href="https://github.com/FrankFeng-23/GreenLens/issues">Request Feature</a>
+    <a href="https://github.com/FrankFeng-23/GreenLens/issues">Request Feature 🙋</a>
   </p>
 </div>
 
