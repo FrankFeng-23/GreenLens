@@ -30,17 +30,16 @@
   <p align="center">
     <h3>An Intuitive App for Accelerating Forest Inventory Mapping :evergreen_tree: </h3>
     <br />
-    <a href="https://apkpure.net/p/com.cleeg.greenlens"><strong>Download the APK » </strong> 📱 </a>
+    <a href="https://apkpure.com/p/com.cleeg.greenlens"><strong>Download the APK » </strong> 📱 </a>
     <br />
     <br />
     <a href="https://www.cambridge.org/engage/coe/article-details/657491c25bc9fcb5c9727f79">View Our Paper :bookmark_tabs:</a>
     ·
-    <a href="https://github.com/FrankFeng-23/GreenLens/issues">Report Bug :hammer_and_wrench:</a>
+    <a href="https://github.com/MingyueX/GreenLens/issues">Report Bug :hammer_and_wrench:</a>
     ·
-    <a href="https://github.com/FrankFeng-23/GreenLens/issues">Request Feature 🙋</a>
+    <a href="https://github.com/MingyueX/GreenLens/issues">Request Feature 🙋</a>
   </p>
 </div>
-
 
 
 <!-- TABLE OF CONTENTS -->
@@ -104,7 +103,7 @@ An ideal approach to forest inventory should be available worldwide for mass ado
 <!-- GETTING STARTED -->
 ## Getting Started 🔰
 
-If you would like to try our app, please download our [APK](https://apkpure.net/p/com.cleeg.greenlens) from APKPure and install it on your Android phone. Before using the app, we strongly recommend checking [Support Device](https://developers.google.com/ar/devices) to ensure device compatibility.
+If you would like to try our app, please download our [APK](https://apkpure.com/p/com.cleeg.greenlens) from APKPure and install it on your Android phone. Before using the app, we strongly recommend checking [Support Device](https://developers.google.com/ar/devices) to ensure device compatibility.
 
 If you are a developer or an ecological researcher interested in understanding how the app operates in depth, you can refer to the following guidelines to run the app. However, before doing so, we still recommend that you review [our paper](https://www.cambridge.org/engage/coe/article-details/657491c25bc9fcb5c9727f79) to understand the app's architecture, image processing pipeline, and diameter estimation methodology.
 ### Prerequisites 🔑
@@ -143,7 +142,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/FrankFeng-23/GreenLens/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/MingyueX/GreenLens/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -177,8 +176,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact 📞
 
-GreenLens - greenlens@example.com
-
 Our Group Link: [Energy and Environment Group](https://www.cst.cam.ac.uk/research/eeg)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -198,19 +195,6 @@ Our Group Link: [Energy and Environment Group](https://www.cst.cam.ac.uk/researc
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
 [flutter-icon]: https://img.shields.io/badge/flutter-%23FFFFFF?style=for-the-badge&logo=flutter&logoColor=%2302569B
 [flutter-url]: https://flutter.dev/
 [arcore-url]: https://developers.google.com/ar
